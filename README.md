@@ -1,8 +1,8 @@
-## TP10 — Implementasi AppTheme dan MainWindow v0.4
+## TP13 — Implementasi AppTheme dan MainWindow v0.4
 
 ### 1. Deskripsi
 
-Pada TP10 ini, saya mengembangkan aplikasi Character Manager menggunakan Java Swing dengan menerapkan konsep pemisahan tampilan melalui class AppTheme dan MainWindow. Tujuan implementasi ini adalah membuat tampilan aplikasi lebih menarik, konsisten, dan mudah dikelola.
+Pada TP13 ini, saya mengembangkan aplikasi Character Manager menggunakan Java Swing dengan menerapkan konsep pemisahan tampilan melalui class AppTheme dan MainWindow. Tujuan implementasi ini adalah membuat tampilan aplikasi lebih menarik, konsisten, dan mudah dikelola.
 
 ### 2. Screenshot Sebelum (v0.3)
 
@@ -40,5 +40,5 @@ Melalui TP10, saya memahami penggunaan AppTheme sebagai tempat pengaturan tampil
 
 ### 8. Analisis Konseptual
 
-Dokumen analisis TP10:
+Dokumen analisis TP13:
 https://docs.google.com/document/d/1Piq_q66mG50ctaRhsp02nXr72GeleWD7/edit?usp=drivesdk&ouid=115604189359564607117&rtpof=true&sd=true
